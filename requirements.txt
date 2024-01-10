@@ -6,3 +6,4 @@ chromadb
 utils
 pypdf
 tiktoken
+pysqlite3
