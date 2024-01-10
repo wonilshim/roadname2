@@ -2,7 +2,7 @@ langchain
 openai
 streamlit
 streamlit_extras
-chroma
+chromadb
 utils
 pypdf
 tiktoken
