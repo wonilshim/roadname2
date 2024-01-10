@@ -8,7 +8,8 @@ from langchain.vectorstores import Chroma
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
-from utils.ui import message_func, user_message_func
+#from utils.ui import message_func, user_message_func
+from ui import message_func, user_message_func
 import streamlit as st
 import tempfile
 import os
